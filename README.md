@@ -1,8 +1,9 @@
 # Scoring code for the AI healthcare competition - TWESD2024
 
-This repository contains the Python and MATLAB evaluation code for the George B. Moody PhysioNet Challenge 2024.
+This repository contains the Python evaluation code for the Challenge.
 
-The `evaluate_model` script evaluates the outputs of your models using the evaluation metric that is described on the [webpage](https://physionetchallenges.org/2024/) for the 2024 Challenge. This script reports multiple evaluation metrics, so check the [scoring section](https://physionetchallenges.org/2024/#scoring) of the webpage to see how we evaluate and rank your models.
+The `evaluate_model` script evaluates the outputs of your models using the evaluation metric that is described on the [webpage](http://www.ceslab.org/TWESD2024/) for the 2024 Challenge. 
+This script reports multiple evaluation metrics, so check the [scoring section](https://docs.google.com/document/d/1JvY1cgFr49i-zp5-ovEtRSaY9buSiSbbDJv9LiLPMZk/edit?usp=sharing) of "AI Healthcare TWESD competiton Description" document, to see how we evaluate and rank your models.
 
 ## Python
 
@@ -34,12 +35,10 @@ Unable to run this code with your code? Try one of the [example codes](https://p
 
 ## How do I learn more?
 
-Please see the [Challenge website](https://physionetchallenges.org/2024/) for more details. Please post questions and concerns on the [Challenge discussion forum](https://groups.google.com/forum/#!forum/physionet-challenges).
+Please see the [Challenge website](http://www.ceslab.org/TWESD2024/) for more details. Please post questions and concerns on the [Challenge classroom](https://classroom.google.com/u/1/c/NjUyNjE0ODk0MDg5), after joining it (only one of the team).
 
 ## Useful links
 
-- [Challenge website](https://physionetchallenges.org/2024/)
-- [MATLAB example code](https://github.com/physionetchallenges/matlab-example-2024)
+- [Challenge website](http://www.ceslab.org/TWESD2024/)
 - [Python example code](https://github.com/physionetchallenges/python-example-2024)
-- [Frequently asked questions (FAQ) for this year's Challenge](https://physionetchallenges.org/2024/faq/)
 
