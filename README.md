@@ -28,5 +28,5 @@ Please see the [Challenge website](http://www.ceslab.org/TWESD2024/) for more de
 ## Useful links
 
 - [Challenge website](http://www.ceslab.org/TWESD2024/)
-- [Python example code](https://github.com/physionetchallenges/python-example-2024)
+- [Python example code](https://github.com/aymenabid-lab/code-competiton-TWESD-2024/tree/main)
 
