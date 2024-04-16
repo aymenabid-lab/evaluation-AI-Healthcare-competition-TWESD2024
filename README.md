@@ -1,4 +1,4 @@
-# Scoring code for the George B. Moody PhysioNet Challenge 2024
+# Scoring code for the AI healthcare competition - TWESD2024
 
 This repository contains the Python and MATLAB evaluation code for the George B. Moody PhysioNet Challenge 2024.
 
