@@ -1,3 +1,4 @@
+% Send this file after your changments proopositions
 % This file contains functions for evaluating models for the 2024 Challenge. You can run it as follows:
 %
 %   evaluate_model(labels, outputs, scores.csv)
@@ -6,6 +7,8 @@
 % model(s), and 'scores.csv' (optional) is a collection of scores for the model outputs.
 %
 % Each label or output file must have the format described on the Challenge webpage.
+% NB. Add an additonal function to genrate accuracy, binary accuracy, precision and recall
+%  NB. Add an additonal function to genrate figures and save it in outputs folder
 
 function evaluate_model(labels, outputs, scores)
     % Check for Python and NumPy.
