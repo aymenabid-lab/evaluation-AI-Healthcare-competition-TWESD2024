@@ -3,7 +3,7 @@
 This repository contains an example of Python evaluation code for the Challenge, an is not obligation to use it.
 
 The `evaluate_model` script can be used to evaluate the outputs of your models using the evaluation metric that is described on the [Desciption document](https://docs.google.com/document/d/e/2PACX-1vT1lRtUdm_A_kvCX_LcxFRBRwQljDLel1ufxht4HHkjNNN77RvsVhT4bILPl_kfIbp-Y5o1ClSHURnJ/pub) for the 2024 Challenge. 
-This script reports multiple evaluation metrics, so check the scoring section of "Smart Healthcare TWESD competiton Description" document, to see how we evaluate and rank your models.
+This script reports multiple evaluation metrics, so check the scoring section of [Desciption document](https://docs.google.com/document/d/e/2PACX-1vT1lRtUdm_A_kvCX_LcxFRBRwQljDLel1ufxht4HHkjNNN77RvsVhT4bILPl_kfIbp-Y5o1ClSHURnJ/pub), to see how we evaluate and rank your models.
 
 ## Python
 
