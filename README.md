@@ -1,6 +1,6 @@
 # Example of Scoring code for the Smart healthcare competition - TWESD2024
 
-This repository contains the Python evaluation code for the Challenge.
+This repository contains an example of Python evaluation code for the Challenge, an is not obligation to use it.
 
 The `evaluate_model` script evaluates the outputs of your models using the evaluation metric that is described on the [webpage](http://www.ceslab.org/TWESD2024/) for the 2024 Challenge. 
 This script reports multiple evaluation metrics, so check the scoring section of "Smart Healthcare TWESD competiton Description" document, to see how we evaluate and rank your models.
