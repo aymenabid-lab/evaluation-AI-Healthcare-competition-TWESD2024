@@ -27,7 +27,7 @@ Please see the [Challenge website](http://www.ceslab.org/TWESD2024/) for more de
 
 ## Useful links
 
-- [Challenge website](http://www.ceslab.org/TWESD2024/)
+- [TWESD website](http://www.ceslab.org/TWESD2024/)
 - [Python example code](https://github.com/aymenabid-lab/code-competiton-TWESD-2024/tree/main)
 - [Competition process](https://docs.google.com/document/d/e/2PACX-1vT1lRtUdm_A_kvCX_LcxFRBRwQljDLel1ufxht4HHkjNNN77RvsVhT4bILPl_kfIbp-Y5o1ClSHURnJ/pub)
 
