@@ -1,4 +1,4 @@
-# Example of Scoring code for the Smart healthcare competition - TWESD2024
+# Example of Scoring code for the Smart Healthcare Competition - TWESD2024
 
 This repository contains an example of Python evaluation code for the Challenge, an is not obligation to use it.
 
