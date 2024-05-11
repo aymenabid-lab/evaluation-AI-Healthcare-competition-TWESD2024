@@ -13,7 +13,7 @@ You can run the Python evaluation code by installing the NumPy package and runni
 
 where
 
-- `labels` (input; required) is a folder with labels for the data, such as the training data on the [Document](https://streaklinks.com/B8t02MAUVLoFA3M_tQ3_Zzqd/https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2Fe%2F2PACX-1vSnVQb7K-wOnD6n4rrdqvgwXhX0qfIMEmf8U2BuoHqcRJBIE3Yw0_AnqZy7c_RyL89wmHAVpAJExzJD%2Fpub) Challenge Webpage;
+- `labels` (input; required) is a folder with labels for the data;
 - `outputs` (input; required) is a folder containing files with your model's outputs for the data; and
 - `scores.csv` (output; optional) is a collection of scores for your model.
 
@@ -29,4 +29,5 @@ Please see the [Challenge website](http://www.ceslab.org/TWESD2024/) for more de
 
 - [Challenge website](http://www.ceslab.org/TWESD2024/)
 - [Python example code](https://github.com/aymenabid-lab/code-competiton-TWESD-2024/tree/main)
+- [Competition process](https://docs.google.com/document/d/e/2PACX-1vT1lRtUdm_A_kvCX_LcxFRBRwQljDLel1ufxht4HHkjNNN77RvsVhT4bILPl_kfIbp-Y5o1ClSHURnJ/pub)
 
